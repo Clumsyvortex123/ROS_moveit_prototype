@@ -1,6 +1,5 @@
 # ROS_moveit_prototype
-testing and prototype of ROS MOVEIT for muultiple arms
-
+Testing and prototype of ROS MOVEIT for multiple arms
 ->clone github links  
         -> moveit_tutorials :   https://github.com/ros-planning/moveit_tutorials.git
         ->panda_moveit_config : https://github.com/ros-planning/panda_moveit_config.git
